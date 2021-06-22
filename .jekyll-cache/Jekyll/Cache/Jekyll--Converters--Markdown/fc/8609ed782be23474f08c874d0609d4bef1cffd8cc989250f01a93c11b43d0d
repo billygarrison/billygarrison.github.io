@@ -1,12 +1,12 @@
----
-layout: default
-title: Billy Garrison
----
+I"ö<h1 id="hi-there">Hi there!</h1>
+<p>Welcome to my website</p>
+
 <div class="blurb">
 	<h1>Hi there, I'm Billy Garrison!</h1>
 	<p>This is a temporary placeholder while I work on learning Jekyll to build my website.</p>
 	<p>Jekyll allows me to use HTML or markdown to create content that gets converted into a website. <a href="/about">Read more about my life...</a></p>
-</div><!-- /.blurb -->
+</div>
+<!-- /.blurb -->
 <!--
 <!DOCTYPE html>
 <html>
@@ -21,3 +21,4 @@ title: Billy Garrison
 </body>
 </html>
 -->
+:ET

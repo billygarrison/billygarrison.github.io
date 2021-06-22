@@ -1,0 +1,20 @@
+I"›<h1 id="hi-there">Hi there!</h1>
+<p>Welcome to my website. This is a temporary placeholder while I learn how to use Jekyll to build my website.</p>
+
+<p>Jekyll allows me to use HTML or markdown to create content that gets converted into a website. <a href="/about">Read more about my lifeâ€¦</a></p>
+
+<!--
+<!DOCTYPE html>
+<html>
+<head>
+<style>html{text-align:center;margin:auto;}</style>	
+</head>
+<body>
+<h2>Billy Garrison</h2>
+<p>Find me on Twitter: https://twitter.com/billy_btc</p>
+<p>Or GitHub: https://github.com/billygarrison</p>
+<img src="https://upload.wikimedia.org/wikipedia/en/1/1d/Page_Under_Construction.png" width="683" height="429">
+</body>
+</html>
+-->
+:ET

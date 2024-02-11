@@ -8,9 +8,7 @@ title: CV
 
 2019-2022: Software Engineer (Freelance, part-time), Arolytics
 
-2020-2022: Geologist, Nova Scotia Dept. of Natural Resources and Renewables
-
-2019-2020: Database Developer / GIS Analyst, Nova Scotia Dept. of Lands & Forestry
+2019-2022: Database Developer / GIS Analyst / Geologist, Nova Scotia Dept. of Natural Resources and Renewables
 
 2017-2019: GIS Research Technician, St. FX University
 

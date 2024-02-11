@@ -28,16 +28,16 @@ title: CV
 2015-2018
 
 # Scientific Research
-Esparza, A. E., Rowan, G., Newhook, A., Deglint, H. J., Garrison, B., Orth-Lashley, B., Girard, M., Shaw, W. (2023). Analysis of a tiered top-down approach using satellite and aircraft platforms to monitor oil and gas facilities in the Permian basin. Renewable and Sustainable Energy Reviews, forthcoming.
-*Coauthor, Emissions Modelling Lead - Arolytics (2022-2023)*
+2022-2023: Esparza, A. E., Rowan, G., Newhook, A., Deglint, H. J., Garrison, B., Orth-Lashley, B., Girard, M., Shaw, W. (2023). Analysis of a tiered top-down approach using satellite and aircraft platforms to monitor oil and gas facilities in the Permian basin. Renewable and Sustainable Energy Reviews, forthcoming.
+*Coauthor, Emissions Modelling Lead - Arolytics*
 
-Wesley, D., Garrison, B., Layden, R. E., Risk D. (2019). Variation in atmospheric methane suggests active methane production during wintertime in the Mackenzie-Beaufort Delta [Unpublished manuscript].
+2018-2019: Wesley, D., Garrison, B., Layden, R. E., Risk D. (2019). Variation in atmospheric methane suggests active methane production during wintertime in the Mackenzie-Beaufort Delta [Unpublished manuscript].
 *Coauthor, Satellite Remote Sensing Lead - St. Francis Xavier University)*
 
-Steenkamp, H.M, Wodicka, N., Lawley, C.J.M., Peterson, T., Garrison, W., Therriault, I., Kendrick, J., Weller, O.M., Tschirhart, V., in prep. Bedrock geology, Daly Bay area, Kivalliq, Nunavut, NTS 56-A, 46-D west, 46-E southwest, and 56-H south. Geological Survey of Canada, Canadian Geoscience Map 458, 1 sheet, 1:150,000 scale.
+2015-2016: Steenkamp, H.M, Wodicka, N., Lawley, C.J.M., Peterson, T., Garrison, W., Therriault, I., Kendrick, J., Weller, O.M., Tschirhart, V., in prep. Bedrock geology, Daly Bay area, Kivalliq, Nunavut, NTS 56-A, 46-D west, 46-E southwest, and 56-H south. Geological Survey of Canada, Canadian Geoscience Map 458, 1 sheet, 1:150,000 scale.
 *Coauthor, Geological Mapping (Bedrock) - Geological Survey of Canada*
 
-Garrison, B. (2016). Geology of a Metasedimentary Package in the Outer Shear Zone of the Daly Bay Complex, Central Nunavut [Unpublished bachelor's thesis]. Dalhousie University.
+2015-2016: Garrison, B. (2016). Geology of a Metasedimentary Package in the Outer Shear Zone of the Daly Bay Complex, Central Nunavut [Unpublished bachelor's thesis]. Dalhousie University.
 *Author, Geological Research & Mapping - Dalhousie University*
 
 # Education
